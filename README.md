@@ -27,9 +27,7 @@ Here are some ideas to get you started:
   - objectsModel ❎ 看完了教程，但是笔记没跟上
   - tlpi ❎ 摆烂中
   - nginx_learning ❎ 摆烂中
-  - cmakelearn ❎ 摆烂中（笔记做了挺多的了，还差一章节）
-    估计后面还要重新看看 cmake cookbook，
-    我的评价是：xmake yyds!
+  - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
   - posix ❎ 摆烂中（最近会完善）
 - 🔭 my projects:
