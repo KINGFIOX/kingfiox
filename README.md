@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : 
   - the linux programming interface
   - programming with posix threads
-  - unix network programming、haskell(
+  - unix network programming
+  - haskell
+- 😄 Pronouns: he/him
+
