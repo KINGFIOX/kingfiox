@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning tlpi(the linux programming interface)、programming with posix threads、unix network programming、haskell(
+- 🌱 I’m currently learning : 
+  - the linux programming interface
+  - programming with posix threads
+  - unix network programming、haskell(
