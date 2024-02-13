@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   - programming with posix threads
   - unix network programming
   - haskell
+  - 王道：操作系统
+  - 装载、链接与库
 - 😄 Pronouns: he/him
 - 📒 Notes:
   - cppTGP ✅ finished
