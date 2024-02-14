@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
+
+
+![Kingfiox's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGFIOX&layout=compact)
