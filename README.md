@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   - nginx_learning ❎ 摆烂中
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
-  - posix ❎ 摆烂中（最近会完善）
+  - posix 🚧（施工中）
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
