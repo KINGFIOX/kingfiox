@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 - 📒 Notes:
   - cppTGP ✅ finished
   - designPattern ✅ finished
+  - posix ✅ finished（不完善）
   - objectsModel ❎ 看完了教程，但是笔记没跟上
   - tlpi ❎ 摆烂中
   - nginx_learning ❎ 摆烂中
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
-  - posix 🚧（施工中）
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
