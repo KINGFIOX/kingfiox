@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning : 
-  - the linux programming interface
-  - programming with posix threads
-  - unix network programming
+  - the linux programming interface + 王道OS
+  - unix network programming + 王道计网
   - haskell
-  - 王道：操作系统
+  - 算法（左程云）
   - 装载、链接与库
 - 😄 Pronouns: he/him
 - 📒 Notes:
   - cppTGP ✅ finished
   - designPattern ✅ finished
-  - posix ✅ finished（不完善）
-  - objectsModel ❎ 看完了教程，但是笔记没跟上
-  - tlpi ❎ 摆烂中
+  - posix ✅ finished
+  - objectsModel ❎ 摆烂中
+  - tlpi ❎ （看完了上册）
   - nginx_learning ❎ 摆烂中
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
