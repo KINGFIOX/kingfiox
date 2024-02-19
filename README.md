@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - haskell
   - 算法（左程云）
   - 装载、链接与库
+  - perfbook
 - 😄 Pronouns: he/him
 - 📒 Notes:
   - cppTGP ✅ finished
