@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
   - 算法 🚧 施工中
+  - haskell 🚧 施工中
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
