@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : 
   - the linux programming interface + 王道OS
   - unix network programming + 王道计网
-  - haskell
   - 算法（左程云）
   - 装载、链接与库
   - perfbook
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
   - 算法 🚧 施工中
-  - haskell 🚧 施工中
+  - learn you a haskell ✅ （但是笔记比较摆烂）
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
