@@ -28,13 +28,14 @@ Here are some ideas to get you started:
   - cppTGP ✅ finished
   - designPattern ✅ finished
   - posix ✅ finished
+  - learn you a haskell ✅ （但是笔记比较摆烂）
   - objectsModel ❎ 摆烂中
   - tlpi ❎ （看完了上册）
   - nginx_learning ❎ 摆烂中
   - cmakelearn ❎ 摆烂中
   - study_rust ❎ 摆烂中
   - 算法 🚧 施工中
-  - learn you a haskell ✅ （但是笔记比较摆烂）
+  - unp 🚧 施工中
 - 🔭 my projects:
   - freshman_project ✅ finished
   - understand_doc_cn ✅ finished
