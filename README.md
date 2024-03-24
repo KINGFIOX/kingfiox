@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning : 
-  - the linux programming interface + 王道OS
-  - unix network programming + 王道计网
-  - 算法（左程云）
-  - 装载、链接与库
-  - perfbook
+  - the linux programming interface + 王道OS ❎
+  - unix network programming + 王道计网 ❎
+  - 算法（左程云）❎
+  - 装载、链接与库 ❎
+  - perfbook ❎
+  - rust ✅
+  - systemverilog ✅
 - 😄 Pronouns: he/him
 - 📒 Notes:
   - cppTGP ✅ finished
