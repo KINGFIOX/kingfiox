@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Kingfiox's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGFIOX&layout=compact)
-
 绝地科学家八倍不屏息啊
 
 八百里外把头打呀， LD是我爸，DY是我麻麻
