@@ -51,3 +51,5 @@ LD是我爸，DY是我麻麻， 嘻嘻哈哈我们穷开挂
 地上的弹夹，和包叠一起了， 看错也是合理合法
 
 两秒十七发，轻松二十九杀， 嘻嘻哈哈我们穷开挂
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Jupyter+Notebook,Typst)](https://github.com/anuraghazra/github-readme-stats)
