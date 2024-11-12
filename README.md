@@ -2,6 +2,6 @@
 
 不想上学
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingfiox&hide=Jupyter+Notebook,Typst)](https://github.com/anuraghazra/github-readme-stats)
+![language](https://github.com/anuraghazra/github-readme-stats)
 
 ![status](https://github-readme-stats.vercel.app/api?username=KINGFIOX&show_icons=true)
